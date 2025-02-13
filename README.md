@@ -1,2 +1,2 @@
-# 3Tec-ProgBackEnd
+# Curso de Desenvolvimento de Sistemas
  Repositório do Curso
